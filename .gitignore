@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pkl
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+*.log
+*.tmp
+*.cache
+outputs/
+runs/
+
+# Model weights / datasets (biasanya besar)
+weights/
+*.pth
+*.pt
+dataset/
+data/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
